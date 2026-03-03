@@ -1,4 +1,4 @@
-# streamlit_weather_realtime
+# weather realtime dashboard (with streamlit)
 This repo contains code to create a simple web app interface to visualize real-time weather data.
 Data is gathered from the WeatherAPI freely available in RapidAPI marketplace.
 
